@@ -1,5 +1,5 @@
 #-----------------------------
-# Ejercicio N°1
+# EJERCICIO N°1
 #-----------------------------
 
 # 1. Al final de las instrucciones observa cómo la función print() imprime la linea "¡Hola, Mundo!" en la pantalla.
