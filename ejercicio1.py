@@ -2,7 +2,7 @@
 # Ejercicio N°1
 #-----------------------------
 
-# 1. Utiliza la función print() para imprimir la linea "¡Hola, Mundo!" en la pantalla.
+# 1. Al final de las instrucciones observa cómo la función print() imprime la linea "¡Hola, Mundo!" en la pantalla.
 
 # 2. Ahora intenta imprimir tu nombre.
 
