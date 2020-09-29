@@ -1,5 +1,6 @@
 #-----------------------------
 # EJERCICIO N°2
+# Saltos de línea y argumentos múltiples
 #-----------------------------
 
 # 1. Veamos primero dos instrucciones simples al final de las instrucciones
