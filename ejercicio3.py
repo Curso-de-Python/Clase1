@@ -9,7 +9,7 @@
  2. Prueba el valor vacío "", el carácter de nueva línea "\n" ¡y los símbolos que quieras!
 -----------------------------
 '''
-print("Mi nombre es", "Python.", end="")
+print("Mi nombre es", "Python.", end=" ")
 print("Monty Python.")
 
 '''
